@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;PedagangAsongan&apos;&#x0D;&#x0A;- Original project: &apos;PedagangAsongan&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     PedagangAsongan/src/pedagangAsongan&#x0D;&#x0A;     PedagangAsongan/src/pedagangAsongan.constant&#x0D;&#x0A;     PedagangAsongan/src/pedagangAsongan.controller&#x0D;&#x0A;     PedagangAsongan/src/pedagangAsongan.service&#x0D;&#x0A;     PedagangAsongan/src/pedagangAsongan.view&#x0D;&#x0A;- Delete subpackages" description="Delete elements" element1="/src&lt;pedagangAsongan.view" element2="/src&lt;pedagangAsongan.service" element3="/src&lt;pedagangAsongan.controller" element4="/src&lt;pedagangAsongan.constant" element5="/src&lt;pedagangAsongan" elements="5" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1593633259517" subPackages="true" version="1.0"/>
+</session>

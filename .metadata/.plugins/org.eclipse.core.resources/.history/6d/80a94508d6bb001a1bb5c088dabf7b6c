@@ -1,0 +1,12 @@
+package local.BotInc.PedagangAsongan.View.*;
+
+import java.util.ArrayList;
+import com.lawencon.pedagangAsongan.view.ViewMain;
+
+public class App {
+
+	public static void main(String[] args) {
+		new ViewMain(new ArrayList<String[]>());
+	}
+
+}
