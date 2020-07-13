@@ -1,7 +1,0 @@
-package com.lawencon.pedagangAsongan.service;
-
-public interface PedagangAsonganService {
-
-	abstract void calculate(String namePrice, Integer priceItem);	
-	
-}
